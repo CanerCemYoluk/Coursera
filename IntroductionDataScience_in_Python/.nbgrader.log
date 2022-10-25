@@ -1,0 +1,883 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://faedc15d51e4:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.59) 0.58ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (73.145.174.136) 0.47ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.174.136) 4.99ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.174.136) 1.18ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.174.136) 1.49ms referer=https://instructorfwfhtvjb.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.174.136) 0.96ms referer=https://instructorfwfhtvjb.coursera-apps.org/terminals/1
+[NotebookApp | INFO] 302 GET / (10.0.0.59) 0.48ms
+[NotebookApp | INFO] 302 GET / (10.0.0.29) 0.46ms
+[NotebookApp | INFO] 302 GET / (73.145.174.136) 0.37ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.174.136) 1.14ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (73.145.174.136) 1.00ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://4ac637e33e56:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.92) 0.52ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.32ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.14ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.79ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | INFO] Uploading file to /resources/mpg.csv
+[NotebookApp | WARNING] delete /resources/mpg.csv
+[NotebookApp | INFO] Uploading file to /resources/datasets/mpg.csv
+[NotebookApp | INFO] 302 GET / (10.0.0.96) 0.53ms
+[NotebookApp | INFO] 302 GET / (10.0.0.25) 0.46ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.44ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.99ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.87ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://6fb4f1f38e9e:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.42) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.51ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.04ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.92ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.52ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 29db21f8-bc09-4d3d-ad66-b68963328cb2
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 29db21f8-bc09-4d3d-ad66-b68963328cb2) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Starting buffering for 29db21f8-bc09-4d3d-ad66-b68963328cb2:9167b7d437b14eed921f943cf4c67bda
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.13ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment2/assignment2.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.17ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment2/assignment2.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment2/assignment2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8ce997ff-0247-4676-ac68-26cc44f6741c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8ce997ff-0247-4676-ac68-26cc44f6741c) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 8ce997ff-0247-4676-ac68-26cc44f6741c:10679aa9bff14d0a947e5c22182c2df1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://c17d80b7f7e4:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.79) 0.52ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.47ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 4.97ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.95ms referer=https://instructorfwfhtvjb.coursera-apps.org/terminals/1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://5d8550825efc:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.34) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.52ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.10ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.90ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.98ms referer=https://instructorfwfhtvjb.coursera-apps.org/edit/resources/week-3/datasets/college_scorecard/MERGED2004_05_PP.csv
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.95ms referer=https://instructorfwfhtvjb.coursera-apps.org/edit/resources/week-3/datasets/college_scorecard/MERGED2004_05_PP.csv
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://32971b81b714:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.70ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.52ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.86ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ad0b6351-6c12-44ea-9c28-5819665ed391
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ad0b6351-6c12-44ea-9c28-5819665ed391) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] Trusting notebook /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for ad0b6351-6c12-44ea-9c28-5819665ed391:0604c8661df64c7198c7043bd6e39ad5
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.06ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.87ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ad0b6351-6c12-44ea-9c28-5819665ed391) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for ad0b6351-6c12-44ea-9c28-5819665ed391:42bfa4fd4ff14d2aa30334819c0b8998
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.51ms
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.45ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.41ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.48ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.97ms referer=https://instructorfwfhtvjb.coursera-apps.org/edit/readonly/README.md
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.92ms referer=https://instructorfwfhtvjb.coursera-apps.org/edit/readonly/README.md
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.04ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.89ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ad0b6351-6c12-44ea-9c28-5819665ed391) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for ad0b6351-6c12-44ea-9c28-5819665ed391:ebd32981d01f45f183257406370e0416
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.01ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.02ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ad0b6351-6c12-44ea-9c28-5819665ed391) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for ad0b6351-6c12-44ea-9c28-5819665ed391:acf32de341424e8a8cf840f9b8582545
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.99ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree
+[NotebookApp | INFO] Kernel shutdown: ad0b6351-6c12-44ea-9c28-5819665ed391
+[NotebookApp | WARNING] delete /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Uploading file to /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.99ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.28ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Kernel started: a6e00456-34d5-4e90-894c-e664014d7cdb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel a6e00456-34d5-4e90-894c-e664014d7cdb) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for a6e00456-34d5-4e90-894c-e664014d7cdb:7a14bebd8bff473b88ae68c918bf8621
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://7da7b7a469be:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.52ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.35ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 4.68ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.88ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.84ms referer=https://instructorfwfhtvjb.coursera-apps.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 778b4906-0467-444e-a548-fcc2453f1aae
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 778b4906-0467-444e-a548-fcc2453f1aae) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] 302 GET / (10.0.0.20) 0.49ms
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.50ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.33ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.91ms referer=https://instructorfwfhtvjb.coursera-apps.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://117b094b0840:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.25) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.38ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://36d64bfd5f50:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.54ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.35ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.13ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.93ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.95ms referer=https://instructorfwfhtvjb.labs.coursera.org/edit/readonly/README.md
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.88ms referer=https://instructorfwfhtvjb.labs.coursera.org/edit/readonly/README.md
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.10ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.39ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] delete /readonly/README.md
+[NotebookApp | INFO] Uploading file to /readonly/readme.txt
+[NotebookApp | INFO] Uploading file to /readonly/assignment4.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | INFO] Uploading file to /readonly/assignment3.ipynb
+[NotebookApp | INFO] Uploading file to /readonly/assignment2.ipynb
+[NotebookApp | INFO] Uploading file to /readonly/assignment1.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.26ms referer=https://instructorfwfhtvjb.labs.coursera.org/edit/readonly/read
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.26ms referer=https://instructorfwfhtvjb.labs.coursera.org/edit/readonly/read
+[NotebookApp | INFO] Saving file at /readonly/read
+[NotebookApp | WARNING] 409 PATCH /api/contents/readonly/read (68.42.71.45): File already exists: readonly/.readonly
+[NotebookApp | WARNING] File already exists: readonly/.readonly
+[NotebookApp | WARNING] 409 PATCH /api/contents/readonly/read (68.42.71.45) 3.16ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree/readonly
+[NotebookApp | INFO] 302 GET / (10.0.0.20) 0.70ms
+[NotebookApp | INFO] 302 GET / (10.0.0.50) 0.47ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.47ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.25ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.24ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.16ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.18ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree/readonly
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.02ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree/readonly
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://652522fe960a:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.80) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.49ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.54ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.24ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.16ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.23ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.11ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://78949cef95d6:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.80) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.46ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.31ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.25ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.05ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.97ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8105db43-ad18-4b0d-9f45-95b6d570a862
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 8105db43-ad18-4b0d-9f45-95b6d570a862) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 8105db43-ad18-4b0d-9f45-95b6d570a862:7cb75811cceb4b1ea7fcc72e58ae3f91
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.07ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree
+[NotebookApp | INFO] Kernel shutdown: 8105db43-ad18-4b0d-9f45-95b6d570a862
+[NotebookApp | WARNING] delete /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Uploading file to /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] delete /readonly/assignment3.ipynb
+[NotebookApp | INFO] Uploading file to /readonly/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.01ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.92ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Kernel started: 6fa50b16-54d8-4ff1-986c-91e6c60f9515
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6fa50b16-54d8-4ff1-986c-91e6c60f9515) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://def1abb9c3e6:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.91) 0.52ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.33ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 4.79ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.92ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.86ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/1
+[NotebookApp | INFO] 302 GET / (10.0.0.118) 0.47ms
+[NotebookApp | INFO] 302 GET / (10.0.0.44) 0.46ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.45ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | INFO] New terminal with automatic name: 2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.42ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/2
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.24ms referer=https://instructorfwfhtvjb.labs.coursera.org/terminals/2
+[NotebookApp | INFO] 302 GET / (10.0.0.44) 0.46ms
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.37ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.29ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.88ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/readonly/assignment1.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.24ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/readonly/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook readonly/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ceb458b5-fd11-4e1a-be0d-fbbfa6809daa
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel ceb458b5-fd11-4e1a-be0d-fbbfa6809daa) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /readonly/assignment1.ipynb
+[NotebookApp | INFO] Starting buffering for ceb458b5-fd11-4e1a-be0d-fbbfa6809daa:e33b71b8b2814edba38630737c32549a
+[NotebookApp | INFO] 302 GET / (10.0.0.118) 0.49ms
+[NotebookApp | INFO] 302 GET / (10.0.0.121) 0.46ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.45ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.26ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.30ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.99ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/readonly/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/readonly/assignment3.ipynb
+[NotebookApp | WARNING] Notebook readonly/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 131a79b5-0452-40f6-a859-cef689e51b25
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 131a79b5-0452-40f6-a859-cef689e51b25) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /readonly/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 131a79b5-0452-40f6-a859-cef689e51b25:81ff01b020b04e798f3ed42447ad6b97
+[NotebookApp | INFO] 302 GET / (10.0.0.80) 0.49ms
+[NotebookApp | INFO] 302 GET / (10.0.0.43) 0.47ms
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.38ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.17ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.26ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://578901f70c4e:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.30) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.32ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.10ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.92ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://40120a085b1d:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.104) 0.53ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.34ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 4.79ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.88ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.52ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.00ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0d9c1f1f-1e50-4e56-9101-4831ad9431a8
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0d9c1f1f-1e50-4e56-9101-4831ad9431a8) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 0d9c1f1f-1e50-4e56-9101-4831ad9431a8:874fa3b16cda4eb196cc02fae1446255
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.11ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/readonly/assignment3.ipynb
+[NotebookApp | INFO] Kernel started: 65ae9e2c-cc0f-4a72-9de0-b82665921efa
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 65ae9e2c-cc0f-4a72-9de0-b82665921efa) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /readonly/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 65ae9e2c-cc0f-4a72-9de0-b82665921efa:40a8e94508874cdd89f607636433bdb8
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.06ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 0d9c1f1f-1e50-4e56-9101-4831ad9431a8) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 0d9c1f1f-1e50-4e56-9101-4831ad9431a8:697456ebe6134a4089f01823bf02a6ed
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://cc7b112f3d70:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.21) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.50ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.90ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.01ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://a2da36a36efe:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.21) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | INFO] 302 GET / (68.42.71.45) 0.48ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 5.35ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.10ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 0.97ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f6aa2464-d6fe-45e1-ba00-02b93ba1e88d
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f6aa2464-d6fe-45e1-ba00-02b93ba1e88d) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for f6aa2464-d6fe-45e1-ba00-02b93ba1e88d:dce2da5e78a44fda90cfdc6f3e3a9f0e
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.03ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.11ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel f6aa2464-d6fe-45e1-ba00-02b93ba1e88d) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for f6aa2464-d6fe-45e1-ba00-02b93ba1e88d:c6c476bcf4a3408ab825077c065510c5
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.28ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.26ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree
+[NotebookApp | INFO] Uploading file to /assignments/assignment3/assignment3 (2).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.08ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3%20(2).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.30ms referer=https://instructorfwfhtvjb.labs.coursera.org/notebooks/assignments/assignment3/assignment3%20(2).ipynb
+[NotebookApp | INFO] Kernel started: c8342cf3-1278-4d50-a882-a1d4759e9041
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c8342cf3-1278-4d50-a882-a1d4759e9041) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3 (2).ipynb
+[NotebookApp | INFO] Starting buffering for c8342cf3-1278-4d50-a882-a1d4759e9041:cddc76d608a34d758cc769b4023e8aab
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.10ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree
+[NotebookApp | INFO] Kernel shutdown: f6aa2464-d6fe-45e1-ba00-02b93ba1e88d
+[NotebookApp | WARNING] delete /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.21ms referer=https://instructorfwfhtvjb.labs.coursera.org/edit/assignments/assignment3/assignment3%20(2).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.11ms referer=https://instructorfwfhtvjb.labs.coursera.org/edit/assignments/assignment3/assignment3%20(2).ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (68.42.71.45) 1.06ms referer=https://instructorfwfhtvjb.labs.coursera.org/tree
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://c7bee61f0e72:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.59ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 5.60ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c401c000-d6ae-4df5-87a0-279438ac3bd0
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c401c000-d6ae-4df5-87a0-279438ac3bd0) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Kernel interrupted: c401c000-d6ae-4df5-87a0-279438ac3bd0
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Starting buffering for c401c000-d6ae-4df5-87a0-279438ac3bd0:7dc88c4f97804bd2a7e21a31bbb4472a
+[NotebookApp | INFO] Kernel restarted: c401c000-d6ae-4df5-87a0-279438ac3bd0
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c401c000-d6ae-4df5-87a0-279438ac3bd0) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for c401c000-d6ae-4df5-87a0-279438ac3bd0:7dc88c4f97804bd2a7e21a31bbb4472a
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.51ms
+[NotebookApp | INFO] 302 GET / (10.0.0.101) 0.50ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 1.72ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel c401c000-d6ae-4df5-87a0-279438ac3bd0) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
+[NotebookApp | INFO] Starting buffering for c401c000-d6ae-4df5-87a0-279438ac3bd0:7dc88c4f97804bd2a7e21a31bbb4472a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c401c000-d6ae-4df5-87a0-279438ac3bd0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://efecb5dce108:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.101) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 8.64ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment2/assignment2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 23dd0516-a258-468a-9f38-f639c7290db7
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 23dd0516-a258-468a-9f38-f639c7290db7) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/assignments/assignment2/assets/NIS-PUF17-DUG.pdf (24.133.129.131) 5.37ms
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/assignments/assignment2/assets/NIS-PUF17-DUG.pdf (24.133.129.131) 1.46ms
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 23dd0516-a258-468a-9f38-f639c7290db7:0846b7dba383441fb1677677fcdd2177
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 23dd0516-a258-468a-9f38-f639c7290db7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://5712b9276d83:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 5.33ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment2/assignment2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 90cf4f3b-d004-4fea-bf94-758c86bfebd6
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment2/assignment2.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 90cf4f3b-d004-4fea-bf94-758c86bfebd6) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/assignments/assignment2/assets/NIS-PUF17-DUG.pdf (24.133.129.131) 5.69ms
+[NotebookApp | INFO] 302 GET /notebooks/assignments/assignment2/assets/NIS-PUF17-DUG.pdf (24.133.129.131) 6.53ms
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | WARNING] Replacing stale connection: 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 90cf4f3b-d004-4fea-bf94-758c86bfebd6) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Kernel restarted: 90cf4f3b-d004-4fea-bf94-758c86bfebd6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 90cf4f3b-d004-4fea-bf94-758c86bfebd6) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/assignments/assignment2/assets/NIS-PUF17-DUG.pdf (24.133.129.131) 2.03ms
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Kernel restarted: 90cf4f3b-d004-4fea-bf94-758c86bfebd6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 90cf4f3b-d004-4fea-bf94-758c86bfebd6) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Kernel restarted: 90cf4f3b-d004-4fea-bf94-758c86bfebd6
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 90cf4f3b-d004-4fea-bf94-758c86bfebd6) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment2/assignment2.ipynb
+[NotebookApp | INFO] Starting buffering for 90cf4f3b-d004-4fea-bf94-758c86bfebd6:9648ef2a9b3b467ca1695276354d81c1
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 90cf4f3b-d004-4fea-bf94-758c86bfebd6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://2bd8c03fecad:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.55ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (212.252.124.111) 8.51ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (212.252.124.111) 1.36ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6bfbace5-780d-4a8c-8de0-7bb1fe837053
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6bfbace5-780d-4a8c-8de0-7bb1fe837053) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/assignments/assignment3/assets/Energy%20Indicators.xls (212.252.124.111) 2.35ms
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 6bfbace5-780d-4a8c-8de0-7bb1fe837053:ce78179a96f94458b805108b73bdb75d
+[NotebookApp | INFO] Kernel restarted: 6bfbace5-780d-4a8c-8de0-7bb1fe837053
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 6bfbace5-780d-4a8c-8de0-7bb1fe837053) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for 6bfbace5-780d-4a8c-8de0-7bb1fe837053:ce78179a96f94458b805108b73bdb75d
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for 6bfbace5-780d-4a8c-8de0-7bb1fe837053:ce78179a96f94458b805108b73bdb75d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 6bfbace5-780d-4a8c-8de0-7bb1fe837053
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://369d7c4c45a0:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.98) 0.79ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 11.67ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment3/assignment3.ipynb is not trusted
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Kernel restarted: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] Replacing stale connection: e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | WARNING] Replacing stale connection: e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | WARNING] Replacing stale connection: e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Kernel restarted: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Kernel restarted: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Replaying 4 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Kernel restarted: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Kernel restarted: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e99d4ad1-ac74-44a3-90ad-f0e251e7863e) to 5.3 (client).
+[NotebookApp | INFO] Restoring connection for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /assignments/assignment3/assignment3.ipynb
+[NotebookApp | INFO] Starting buffering for e99d4ad1-ac74-44a3-90ad-f0e251e7863e:0ee1ebf42df84b828fb488ae80e98955
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e99d4ad1-ac74-44a3-90ad-f0e251e7863e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://e9d7cb9467e9:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.24) 1.52ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 9.32ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment4/assignment4.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d02c904b-75c4-4022-a1d3-52b0ac316a9f
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel d02c904b-75c4-4022-a1d3-52b0ac316a9f) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Starting buffering for d02c904b-75c4-4022-a1d3-52b0ac316a9f:d388a59539a8460b8ec4ef3c50dc0238
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d02c904b-75c4-4022-a1d3-52b0ac316a9f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://b42f163d5f4e:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.120) 0.56ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (212.252.124.112) 8.64ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment4/assignment4.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (212.252.124.112) 1.15ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment4/assignment4.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e79bd397-89ab-43e2-be9d-dffbabce5d57
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel e79bd397-89ab-43e2-be9d-dffbabce5d57) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Starting buffering for e79bd397-89ab-43e2-be9d-dffbabce5d57:bfb2f379fbba4cbf8268fc50633b8598
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e79bd397-89ab-43e2-be9d-dffbabce5d57
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://25a208343a58:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.57ms
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 9.32ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook assignments/assignment4/assignment4.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3f0f88bb-959c-46d6-a016-16b229dfed81
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3f0f88bb-959c-46d6-a016-16b229dfed81) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment4/assignment4.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Saving file at /assignments/assignment4/assignment4.ipynb
+[NotebookApp | INFO] Starting buffering for 3f0f88bb-959c-46d6-a016-16b229dfed81:0a622f6d354245e18aba7710d9a83667
+[NotebookApp | INFO] 302 GET / (10.0.0.53) 0.53ms
+[NotebookApp | INFO] 302 GET / (10.0.0.40) 0.49ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (24.133.129.131) 1.05ms referer=https://suqhpvyj.labs.coursera.org/notebooks/assignments/assignment1/assignment1.ipynb
+[NotebookApp | WARNING] Notebook assignments/assignment1/assignment1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1ee04b52-0575-471e-a11a-2fb44f93477a
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 1ee04b52-0575-471e-a11a-2fb44f93477a) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /assignments/assignment1/assignment1.ipynb
